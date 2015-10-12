@@ -4,5 +4,5 @@ A easy to use two player ping pong coded in Python. I am going to clone the Ping
 
  Two player game
 Simple Version with Codeskulptor Link( directly execute in office machines which blocks other game sites using websense filter).
-  --->
+#  ---> http://www.codeskulptor.org/#user40_rnSsFbX8IZJuL1Z.py
 This will be repeatedly Changed to get this into a full working version in non Codeskulptor Environment
